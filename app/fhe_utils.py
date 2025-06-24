@@ -1,6 +1,6 @@
 import tenseal as ts
+#import numpy as np
 
-print("Creating Context")
 context = ts.context(ts.SCHEME_TYPE.BFV, poly_modulus_degree=4096, plain_modulus=1032193)
 
 public_context = ts.context(ts.SCHEME_TYPE.BFV, poly_modulus_degree=4096, plain_modulus=1032193)
