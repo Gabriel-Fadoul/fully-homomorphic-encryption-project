@@ -1,2 +1,2 @@
 # Fully Homomorphic Encription Project
-### Project designed to implement a basic comunication between two parties using FHE
+### Project designed to implement and Benchmark FHE using the library TenSEAL
